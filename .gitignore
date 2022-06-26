@@ -1,0 +1,11 @@
+/Animation
+/constant/polyMesh
+/constant/extendedFeatureEdgeMesh/
+/processor*
+/dynamicCode
+/0.*
+/0
+!/0.orig
+/animation
+*.OpenFOAM
+log.*
